@@ -1,7 +1,6 @@
 ---
 title: FRC A/V Setup (Start Here)
 ---
-
 # Equipment Locations and Storage Descriptions
 All A/V equipment will be located in one of the following locations, and it all must go **back** into one of these locations at the conclusion of the event. It is important to keep the equipment organized. Generally, the equipment should be placed back in the locations where you found it. Here is a list of all of the locations where our A/V equipment can be found:
 1.  *Streaming Unit case*
@@ -52,6 +51,7 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 ## Track 4 (Screen and Projector Setup)
 - Unpack and Assemble Screen
 - Cable up Projector
-
-Track 6:
+## Track 5 (Finishing Touches)
 - Focus and adjust cameras
+- Setup Audience Display
+- Setup OBS
