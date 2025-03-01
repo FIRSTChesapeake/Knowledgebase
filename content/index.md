@@ -45,8 +45,8 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - Cable Alliance Cameras (Includes cable back to Streaming Unit)
 - (New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)
 ## Track 3 (Audio Setup)
-- Audio Box Setup and Core Cabling
-- Streaming Unit Audio Cabling
+- [[3a. Audio Box Setup and Core Cabling]]
+- [[3b. Streaming Unit Audio Cabling]]
 - Sound Board Setup
 ## Track 4 (Screen and Projector Setup)
 - Unpack and Assemble Screen
