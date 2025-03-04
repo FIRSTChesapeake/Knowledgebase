@@ -41,7 +41,7 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - Mount Alliance Cameras
 - (New for 2025) Mount Flex Camera
 ## Track 2.2 (Cabling of Cameras)
-- Cable Center Camera (Includes cable back to Streaming Unit)
+- [[2d. Cable Center Camera]] (Includes cable back to Streaming Unit)
 - Cable Alliance Cameras (Includes cable back to Streaming Unit)
 - (New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)
 ## Track 3 (Audio Setup)
