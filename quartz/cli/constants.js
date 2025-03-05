@@ -1,16 +1,15 @@
 import path from "path"
 import { readFileSync } from "fs"
-import { execSync, spawnSync } from "child_process"
+import { spawnSync } from "child_process"
 
 const local_username = spawnSync("git", ["config", "user.name"], {
-    stdio: "inherit",
-  })
+    encoding: "utf-8" });
 /**
  * All constants relating to helpers or handlers
  */
 export const ORIGIN_NAME = "origin"
 export const UPSTREAM_NAME = "upstream"
-export const QUARTZ_SOURCE_BRANCH = local_username + "-v4"
+export const QUARTZ_SOURCE_BRANCH = local_username.stdout + "-v4"
 export const cwd = process.cwd()
 export const cacheDir = path.join(cwd, ".quartz-cache")
 export const cacheFile = "./quartz/.quartz-cache/transpiled-build.mjs"
