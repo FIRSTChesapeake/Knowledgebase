@@ -58,7 +58,7 @@ export const SyncArgv = {
   },
   firstsync: {
     boolean: true,
-    default: true,
+    default: false,
     describe: "Indicate that this is a first sync, and ignore errors on pull stage."
   }
 }
