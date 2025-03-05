@@ -563,11 +563,12 @@ export async function handleSync(argv) {
     try {
       gitPull(ORIGIN_NAME, QUARTZ_SOURCE_BRANCH)
     } catch {
-      if (argv.firstsync)
-      { }
-      console.log(chalk.yellow("Warning: Could not pull from the Git branch. If this is the first time you are syncing to this repository, execute the command again with --firstsync at the end of the command.\nAborting sync."))
-      await popContentFolder(contentFolder)
-      return
+      if (!argv.firstsync) {
+        console.log(chalk.yellow("Warning: Could not pull from the Git branch. If this is the first time you are syncing to this repository, execute the command again with --firstsync at the end of the command.\nAborting sync."))
+        await popContentFolder(contentFolder)
+        return
+      }
+      
     }
   }
 
