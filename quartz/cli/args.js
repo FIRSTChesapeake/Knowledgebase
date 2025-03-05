@@ -56,6 +56,11 @@ export const SyncArgv = {
     default: true,
     describe: "pull updates from your Quartz fork",
   },
+  firstsync: {
+    boolean: true,
+    default: false,
+    describe: "Indicate that this is a first sync, and ignore errors on pull stage."
+  }
 }
 
 export const BuildArgv = {
