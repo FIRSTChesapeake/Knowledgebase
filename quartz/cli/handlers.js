@@ -568,7 +568,14 @@ export async function handleSync(argv) {
         await popContentFolder(contentFolder)
         return
       }
-      
+      console.log("Creating new branch")
+      const res = spawnSync("git", ["checkout", "-b", QUARTZ_SOURCE_BRANCH], {
+        stdio: "inherit",
+      })
+      if (res.status !== 0) {
+        console.log(chalk.red("An error occurred when creating the branch."))
+        return
+      }
     }
   }
 
