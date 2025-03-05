@@ -9,7 +9,7 @@ const local_username = spawnSync("git", ["config", "user.name"], {
  */
 export const ORIGIN_NAME = "origin"
 export const UPSTREAM_NAME = "upstream"
-export const QUARTZ_SOURCE_BRANCH = local_username.stdout.trim().replace("\s","_") + "-v4"
+export const QUARTZ_SOURCE_BRANCH = local_username.stdout.trim().replace("/\s/g","_") + "-v4"
 export const cwd = process.cwd()
 export const cacheDir = path.join(cwd, ".quartz-cache")
 export const cacheFile = "./quartz/.quartz-cache/transpiled-build.mjs"
