@@ -40,6 +40,3 @@ Note that the above steps will not cause the new content to appear on the websit
 This is to provide a staging ground for changes. When ready, please open a [Pull Request](https://github.com/FIRSTChesapeake/Knowledgebase/pulls) and request to merge into the 'main' branch.
 The 'main' branch hosts the live content on the website.
 
-
-
-
