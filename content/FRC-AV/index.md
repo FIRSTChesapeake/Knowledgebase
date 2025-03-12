@@ -23,9 +23,10 @@ This is a short, long, black wheeled case that contains the large projection scr
 # Stages and Order of Setup
 The setup of the FIRST Chesapeake Audio/Visual equipment can be broken down into distinct tracks of tasks, each of which may be accomplished in parallel. However, within each distinct track certain tasks rely on others, so the order of tasks within them is important to follow. Also note that the following dependencies on other tracks:
 - #### The FMS relies on the Chesapeake Router being cabled up and active. Expect intervention from the FTA if this is not very quickly setup.
-- Most tracks rely on Track 1 being finished. At a minimum the back panel needs to be removed so the I/O panel is accessible.
-- Track 2.2 relies on Track 2.1 being finished. You cannot run cable to a camera that isn't staged in position yet!
-- Track 6 relies on field assembly being complete. This track may need to be left until the end of setup day, or possibly even the morning of the first day of competition.
+- Most tracks rely on Track 1 being finished. At a minimum the case needs to find its "home" for the event, and the back panel needs to be removed so the I/O panel is accessible.
+- Track 2.2 relies on Track 2.1 being finished. You cannot run cable to a camera that isn't staged in position yet!  
+	- **For 2025 only:** The truss across the middle of the field needs to be finished before steps 2b and 2c can be completed.
+- Track 5 relies on field assembly being partially complete. At a minimum, the field border needs to be finished so the camera can be properly aimed.
 
 ## Track 0 (Gathering Materials)
 Each of the five pieces of Equipment Storage described above should be moved to near where they will live during the event after they are removed from the Pods. Each event has a designated location for the screen and for A/V equipment, please consult with the Equipment Manager to determine where the setup is to be located. In the Equipment Manager's absence, the Event Manager can also provide guidance.
@@ -34,12 +35,12 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - [[1b. Cable up Chesapeake Router]]
 - [[1c. Start Up Streaming Unit]]
 - [1d. Login to Streaming Unit and Test Connectivity](1d.%20Login%20to%20Streaming%20Unit%20and%20Test%20Connectivity.md)
-- [[1f. Sync Media Files]]
 - (If necessary for troubleshooting) [[1e. Configure Chesapeake Router]]
+- [[1f. Sync Media Files]]
 
 ## Track 2.1 (Assembly and Mounting of Cameras)
 - [2a. Assemble and Mount Center Camera](2a.%20Assemble%20and%20Mount%20Center%20Camera.md)
-- Mount Alliance Cameras
+- [[2b. Mount Alliance Cameras - 2025 Version]]
 - (New for 2025) Mount Flex Camera
 ## Track 2.2 (Cabling of Cameras)
 - [[2d. Cable Center Camera]] (Includes cable back to Streaming Unit)
