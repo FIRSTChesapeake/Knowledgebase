@@ -563,7 +563,7 @@ export async function handleSync(argv) {
     try {
       gitPull(ORIGIN_NAME, QUARTZ_SOURCE_BRANCH)
     } catch {
-      if (!argv.firstsync) {
+      if (!argv.newbranch) {
         console.log(chalk.yellow("Warning: Could not pull from the Git branch. If this is the first time you are syncing to this repository or have recently had changes applied (merged), execute the command again with --newbranch at the end of the command.\nAborting sync."))
         await popContentFolder(contentFolder)
         return
