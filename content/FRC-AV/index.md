@@ -51,7 +51,7 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - [[3b. Streaming Unit Audio Cabling]]
 - Sound Board Setup
 ## Track 4 (Screen and Projector Setup)
-- Unpack and Assemble Screen
+- [[4a. Unpack and Assemble Screen]]
 - Cable up Projector
 ## Track 5 (Finishing Touches)
 - Focus and adjust cameras

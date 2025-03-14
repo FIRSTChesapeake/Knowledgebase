@@ -56,10 +56,10 @@ export const SyncArgv = {
     default: true,
     describe: "pull updates from your Quartz fork",
   },
-  firstsync: {
+  newbranch: {
     boolean: true,
     default: false,
-    describe: "Indicate that this is a first sync, and ignore errors on pull stage."
+    describe: "Create a new branch based on the local username to avoid conflicting with others' changes."
   }
 }
 

@@ -564,7 +564,7 @@ export async function handleSync(argv) {
       gitPull(ORIGIN_NAME, QUARTZ_SOURCE_BRANCH)
     } catch {
       if (!argv.firstsync) {
-        console.log(chalk.yellow("Warning: Could not pull from the Git branch. If this is the first time you are syncing to this repository, execute the command again with --firstsync at the end of the command.\nAborting sync."))
+        console.log(chalk.yellow("Warning: Could not pull from the Git branch. If this is the first time you are syncing to this repository or have recently had changes applied (merged), execute the command again with --newbranch at the end of the command.\nAborting sync."))
         await popContentFolder(contentFolder)
         return
       }
@@ -574,6 +574,7 @@ export async function handleSync(argv) {
       })
       if (res.status !== 0) {
         console.log(chalk.red("An error occurred when creating the branch."))
+        await popContentFolder(contentFolder)
         return
       }
     }
