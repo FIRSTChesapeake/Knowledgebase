@@ -49,7 +49,7 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 ## Track 3 (Audio Setup)
 - [[3a. Audio Box Setup and Core Cabling]]
 - [[3b. Streaming Unit Audio Cabling]]
-- Sound Board Setup
+- Sound Board Setup and Audio Leveling
 ## Track 4 (Screen and Projector Setup)
 - [[4a. Unpack and Assemble Screen]]
 - Cable up Projector
