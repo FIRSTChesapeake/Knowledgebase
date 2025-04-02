@@ -25,7 +25,6 @@ The setup of the FIRST Chesapeake Audio/Visual equipment can be broken down into
 - #### The FMS relies on the Chesapeake Router being cabled up and active. Expect intervention from the FTA if this is not very quickly setup.
 - Most tracks rely on Track 1 being finished. At a minimum the case needs to find its "home" for the event, and the back panel needs to be removed so the I/O panel is accessible.
 - Track 2.2 relies on Track 2.1 being finished. You cannot run cable to a camera that isn't staged in position yet!  
-	- **For 2025 only:** The truss across the middle of the field needs to be finished before steps 2b and 2c can be completed.
 - Track 5 relies on field assembly being partially complete. At a minimum, the field border needs to be finished so the camera can be properly aimed.
 
 ## Track 0 (Gathering Materials)
@@ -40,12 +39,12 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 
 ## Track 2.1 (Assembly and Mounting of Cameras)
 - [2a. Assemble and Mount Center Camera](2a.%20Assemble%20and%20Mount%20Center%20Camera.md)
-- [[2b. Mount Alliance Cameras - 2025 Version]]
-- (New for 2025) Mount Flex Camera
+- [[2b. Mount Alliance Cameras]]
+- %%(New for 2025) Mount Flex Camera%%
 ## Track 2.2 (Cabling of Cameras)
-- [[2d. Cable Center Camera]] (Includes cable back to Streaming Unit)
+- [[2c. Cable Center Camera]] (Includes cable back to Streaming Unit)
 - Cable Alliance Cameras (Includes cable back to Streaming Unit)
-- (New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)
+- %%(New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)%%
 ## Track 3 (Audio Setup)
 - [[3a. Audio Box Setup and Core Cabling]]
 - [[3b. Streaming Unit Audio Cabling]]
@@ -57,3 +56,5 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - Focus and adjust cameras
 - Setup Audience Display
 - Setup OBS
+## Striking and Teardown
+ - Locations for Teardown
