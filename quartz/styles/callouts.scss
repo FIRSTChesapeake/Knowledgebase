@@ -106,6 +106,12 @@
     --bg: #7a43b510;
     --callout-icon: var(--callout-icon-example);
   }
+  &[data-callout="steps"] {
+    --color: #000000;
+    --border: #bb7b7b7;
+    --bg: #e5e5e5;
+    --callout-icon: var(--callout-icon-example);
+  }
 
   &[data-callout="quote"] {
     --color: var(--secondary);
