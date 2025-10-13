@@ -1,9 +1,9 @@
 ---
 title: FRC A/V Home
 ---
-
+This series of articles is intended to walk an event volunteer through setting up the audio/visual system for *FIRST* Chesapeake FRC events. We will walk step-by-step through the items, actions and connections necessary for successful AV setup. This is the "hub" article, off of which each distinct setup stage (described in the [[#Stages and Order of Setup]] section below) will branch. You can return here at any time. First, however, we must discuss where to find all of the items you will need to setup A/V.
 # Equipment Locations and Storage Descriptions
-All A/V equipment will be located in one of the following locations, and it all must go **back** into one of these locations at the conclusion of the event. It is important to keep the equipment organized. Generally, the equipment should be placed back in the locations where you found it. Here is a list of all of the locations where our A/V equipment can be found:
+All A/V equipment will be located in one of the following locations, and it all must go **back** into one of these locations at the conclusion of the event. It is important to keep the equipment organized. The equipment should be placed back in the locations where you found it unless the Equipment Manager or FTA states otherwise. Here is a list of all of the locations where our A/V equipment can be found:
 1.  *Streaming Unit case*
 This is also known as the "Webstream Unit", "Streaming Unit", or other similar names. It is a large, tall black case on wheels labeled as the "streaming unit". It contains the main streaming computer, audio mixer, and interface panels to connect other equipment to.
 %% 	TODO: Get photo of CHS Stream Unit closed and open. %%
