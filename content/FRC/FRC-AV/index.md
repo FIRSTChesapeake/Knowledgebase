@@ -23,15 +23,16 @@ This is also known as "Case 26". It is a large, tan, wheeled case that contains 
 This is a short, long, black wheeled case that contains the large projection screen used at events.
 %% TODO: Get photo of projector screen case. %%
 
+Let's now discuss the organized chaos of A/V setup (not to be confused with that of the field setup, which is its own beast!).
 # Stages and Order of Setup
-The setup of the FIRST Chesapeake Audio/Visual equipment can be broken down into distinct tracks of tasks, each of which may be accomplished in parallel. However, within each distinct track certain tasks rely on others, so the order of tasks within them is important to follow. Also note that the following dependencies on other tracks:
+The setup of the FIRST Chesapeake Audio/Visual equipment can be broken down into distinct tracks of tasks, each of which may be accomplished in parallel. However, within each distinct track certain tasks rely on others, so the order of tasks within them is important to follow. Also note the following dependencies on other tracks:
 - #### The FMS relies on the Streaming Unit being cabled up to the Internet and active. Expect intervention from the FTA if this is not very quickly setup.
-- Most tracks rely on Track 1 being finished. At a minimum the case needs to find its "home" for the event, and the back panel needs to be removed so the I/O panel is accessible.
+- Most tracks rely on Track 1 being finished. At a minimum the Streaming Unit case needs to find its "home" for the event, and the back panel needs to be removed so the I/O panel is accessible.
 - Track 2.2 relies on Track 2.1 being finished. You cannot run cable to a camera that isn't staged in position yet!  
 - Track 5 relies on field assembly being partially complete. At a minimum, the field border needs to be finished so the camera can be properly aimed.
 
 ## Track 0 (Gathering Materials)
-Each of the five pieces of Equipment Storage described above should be moved to near where they will live during the event after they are removed from the Pods. Each event has a designated location for the screen and for A/V equipment, please consult with the Equipment Manager to determine where the setup is to be located. In the Equipment Manager's absence, the Event Manager can also provide guidance.
+Each of the five pieces of Equipment Storage described above should be moved to near where they will live during the event after they are removed from the PODS. Each event has a designated location for the screen and for A/V equipment, please consult with the Equipment Manager to determine where the setup is to be located. In the Equipment Manager's absence, the Event Manager can also provide guidance.
 ## Track 1 (Core Streaming Unit & Network Setup)
 - [[1a. Initial Streaming Unit Setup and Core Cabling]]
 - [[1b. Connect Network Cables]]
