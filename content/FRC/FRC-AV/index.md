@@ -41,19 +41,20 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - (If necessary for troubleshooting) [[1e. Troubleshoot Connectivity Issues]]
 - [[1f. Sync Media Files]]
 
-## Track 2.1 (Assembly and Mounting of Cameras)
+## Track 2 (Camera Setup)
 - [2a. Mount Center Camera](2a.%20Mount%20Center%20Camera.md)
-- [[2b. Mount Alliance Cameras]]
-- %%(New for 2025) Mount Flex Camera%%
-## Track 2.2 (Cabling of Cameras)
+- [[2b. Mount and Cable Alliance Cameras]]
 - [[2c. Cable Center Camera]] (Includes cable back to Streaming Unit)
-- Cable Alliance Cameras (Includes cable back to Streaming Unit)
-- %%(New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)%%
+ %%(New for 2025) Mount Flex Camera%%
+%%(New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)%%
+
 ## Track 3 (Audio Setup)
 - [[3a. Connect Microphone Antenna]]
 - [[3b. Radio Frequency Coordination]]
 - [[3c. Sync Microphones and Receivers]]
-- Sound Board Setup and Audio Leveling
+- [[3d. Setup Microphone Chargers]]
+- [[3e. Connect Speakers]]
+- [[3f. Sound Check and Audio Leveling]]
 ## Track 4 (Screen and Projector Setup)
 - [[4a. Unpack and Assemble Screen]]
 - Cable up Projector
