@@ -37,7 +37,7 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - [[1a. Initial Streaming Unit Setup and Core Cabling]]
 - [[1b. Connect Network Cables]]
 - [[1c. Start Up Streaming Unit]]
-- [1d. Login to Streaming Unit and Test Connectivity](1d.%20Login%20to%20Streaming%20Unit%20and%20Test%20Connectivity.md)
+- [1d. Test Connectivity](1d.%20Test%20Connectivity.md)
 - (If necessary for troubleshooting) [[1e. Troubleshoot Connectivity Issues]]
 - [[1f. Sync Media Files]]
 
@@ -54,13 +54,12 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - [[3c. Sync Microphones and Receivers]]
 - [[3d. Setup Microphone Chargers]]
 - [[3e. Connect Speakers]]
-- [[3f. Sound Check and Audio Leveling]]
+- [[3f. Sound Check and Gain Leveling]]
 ## Track 4 (Screen and Projector Setup)
 - [[4a. Unpack and Assemble Screen]]
-- Cable up Projector
+- [[4b. Unpack and Setup Projector]]
 ## Track 5 (Finishing Touches)
-- Focus and adjust cameras
 - Setup Audience Display
-- Setup OBS
+- Setup OBS (see also [[OBS Operators' Guide]] (coming soon))
 ## Striking and Teardown
  - Locations for Teardown
