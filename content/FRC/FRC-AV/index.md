@@ -23,42 +23,43 @@ This is also known as "Case 26". It is a large, tan, wheeled case that contains 
 This is a short, long, black wheeled case that contains the large projection screen used at events.
 %% TODO: Get photo of projector screen case. %%
 
+Let's now discuss the organized chaos of A/V setup (not to be confused with that of the field setup, which is its own beast!).
 # Stages and Order of Setup
-The setup of the FIRST Chesapeake Audio/Visual equipment can be broken down into distinct tracks of tasks, each of which may be accomplished in parallel. However, within each distinct track certain tasks rely on others, so the order of tasks within them is important to follow. Also note that the following dependencies on other tracks:
+The setup of the FIRST Chesapeake Audio/Visual equipment can be broken down into distinct tracks of tasks, each of which may be accomplished in parallel. However, within each distinct track certain tasks rely on others, so the order of tasks within them is important to follow. Also note the following dependencies on other tracks:
 - #### The FMS relies on the Streaming Unit being cabled up to the Internet and active. Expect intervention from the FTA if this is not very quickly setup.
-- Most tracks rely on Track 1 being finished. At a minimum the case needs to find its "home" for the event, and the back panel needs to be removed so the I/O panel is accessible.
+- Most tracks rely on Track 1 being finished. At a minimum the Streaming Unit case needs to find its "home" for the event, and the back panel needs to be removed so the I/O panel is accessible.
 - Track 2.2 relies on Track 2.1 being finished. You cannot run cable to a camera that isn't staged in position yet!  
 - Track 5 relies on field assembly being partially complete. At a minimum, the field border needs to be finished so the camera can be properly aimed.
 
 ## Track 0 (Gathering Materials)
-Each of the five pieces of Equipment Storage described above should be moved to near where they will live during the event after they are removed from the Pods. Each event has a designated location for the screen and for A/V equipment, please consult with the Equipment Manager to determine where the setup is to be located. In the Equipment Manager's absence, the Event Manager can also provide guidance.
+Each of the five pieces of Equipment Storage described above should be moved to near where they will live during the event after they are removed from the PODS. Each event has a designated location for the screen and for A/V equipment, please consult with the Equipment Manager to determine where the setup is to be located. In the Equipment Manager's absence, the Event Manager can also provide guidance.
 ## Track 1 (Core Streaming Unit & Network Setup)
 - [[1a. Initial Streaming Unit Setup and Core Cabling]]
 - [[1b. Connect Network Cables]]
 - [[1c. Start Up Streaming Unit]]
-- [1d. Login to Streaming Unit and Test Connectivity](1d.%20Login%20to%20Streaming%20Unit%20and%20Test%20Connectivity.md)
+- [1d. Test Connectivity](1d.%20Test%20Connectivity.md)
 - (If necessary for troubleshooting) [[1e. Troubleshoot Connectivity Issues]]
 - [[1f. Sync Media Files]]
 
-## Track 2.1 (Assembly and Mounting of Cameras)
+## Track 2 (Camera Setup)
 - [2a. Mount Center Camera](2a.%20Mount%20Center%20Camera.md)
-- [[2b. Mount Alliance Cameras]]
-- %%(New for 2025) Mount Flex Camera%%
-## Track 2.2 (Cabling of Cameras)
+- [[2b. Mount and Cable Alliance Cameras]]
 - [[2c. Cable Center Camera]] (Includes cable back to Streaming Unit)
-- Cable Alliance Cameras (Includes cable back to Streaming Unit)
-- %%(New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)%%
+ %%(New for 2025) Mount Flex Camera%%
+%%(New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)%%
+
 ## Track 3 (Audio Setup)
 - [[3a. Connect Microphone Antenna]]
 - [[3b. Radio Frequency Coordination]]
 - [[3c. Sync Microphones and Receivers]]
-- Sound Board Setup and Audio Leveling
+- [[3d. Setup Microphone Chargers]]
+- [[3e. Connect Speakers]]
+- [[3f. Sound Check and Gain Leveling]]
 ## Track 4 (Screen and Projector Setup)
 - [[4a. Unpack and Assemble Screen]]
-- Cable up Projector
+- [[4b. Unpack and Setup Projector]]
 ## Track 5 (Finishing Touches)
-- Focus and adjust cameras
 - Setup Audience Display
-- Setup OBS
+- Setup OBS (see also [[OBS Operators' Guide]] (coming soon))
 ## Striking and Teardown
  - Locations for Teardown

@@ -1,6 +1,3 @@
----
-title:
----
 This article will describe how to set up the *FIRST* Chesapeake display Raspberry Pis. All equipment for setting up the scoring system is located in the Scorekeeper Roadcase. You will also need lengths of Ethernet from the Ethernet Tote. The totes can be seen below.
 %%TODO: Get picture of scoring and Ethernet tote.%%
 
