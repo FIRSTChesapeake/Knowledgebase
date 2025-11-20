@@ -1,0 +1,15 @@
+---
+draft: "true"
+---
+- Basic overview of hardware and sections of the mixer: touch screen, faders, buttons.
+- Fader bank selection buttons, "Custom 1" should be your home for the event. "Custom 2" also contains some lesser used controls.
+- Description of faders and what they do.
+- Details about the different types of faders we have: inputs (mics with colors matching the tape) and output levels (right side of the board).
+- Description of custom keys and what the buttons do.
+- Importance of starting low and slow when turning up volume.
+- Tips and tricks for during-event success: Know which mics are in use, know when mic settings typically need the most adjustment (opening ceremonies, first few matches as voices change levels, alliance selection).
+- Link to FIRST audio expectations.
+- Importance of volume level reset between competition days.
+- Importance of allowing the music to be drowned out (it's a gap filler, not the main event).
+- Description of USB audio routing.
+- Link to mfr board manual.

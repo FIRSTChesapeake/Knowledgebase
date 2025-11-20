@@ -2,22 +2,21 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "CHS Knowledgebase",
+    pageTitle: "FIRST Chesapeake Knowledgebase",
     pageTitleSuffix: "",
     enableSPA: false,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "firstchesapeake.github.io/Knowledgebase",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
-    generateSocialImages: false,
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -78,15 +77,18 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
       }),
+      Plugin.FolderPage(),
       Plugin.Assets(),
       Plugin.Static(),
+      Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages({colorScheme: "darkMode"}),
     ],
   },
 }
