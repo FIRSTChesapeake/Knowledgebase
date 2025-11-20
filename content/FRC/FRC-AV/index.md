@@ -11,17 +11,17 @@ This is also known as the "Webstream Unit", "Streaming Unit", or other similar n
 This is also known as the "mic box", "mic case", or similar. It is a small, square rackmount case that has a suitcase handle and wheels. It contains the equipment needed to run the wireless microphones.
  TODO: Get photo of audio case closed and open.  %%
  2. *Storage case*
-This is a short, wheeled black case that contains storage drawers for key A/V equipment. It contains the cameras, microphones, microphone antenna, keyboard and mouse for the Streaming Unit, among other key cables and items. 
-%%TODO: Get photo of storage case closed and open.%%
+This is a short, wheeled black case that contains storage drawers for key A/V equipment. It contains many key cables and smaller items for AV setup. 
+![[PXL_20251117_193737105.MP.webp]]
 3.  *A/V Totes*
 These are a series of four green totes, labeled on each short side with gaff tape as "A/V", a route label (north or south) and a specific type label. There are four A/V totes: Audio, Power, SDI, and Ethernet. 
 %% TODO: Get photo of tote stack, preferably also one with the totes open. %%
 4. *A/V Case*
-This is also known as "Case 26". It is a large, tan, wheeled case that contains miscellaneous equipment used for A/V, but the most relevant contents for this guide are the audio mixer, speakers, and projector. 
-%% TODO: Get photo of Case 26 closed and open. %%
+This is also known as "Case 26". It is a large tan or brown wheeled case that contains miscellaneous larger equipment used for A/V. Commonly used items in this case include the projector, speakers, and tripods. 
+![[PXL_20251117_194631349.webp]]
 5. *Projection Screen case*
 This is a short, long, black wheeled case that contains the large projection screen used at events.
-%% TODO: Get photo of projector screen case. %%
+![[IMG_20251115_122431_HDR.webp]]
 
 Let's now discuss the organized chaos of A/V setup (not to be confused with that of the field setup, which is its own beast!).
 # Stages and Order of Setup
@@ -41,20 +41,21 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - (If necessary for troubleshooting) [[1e. Troubleshoot Connectivity Issues]]
 - [[1f. Sync Media Files]]
 
-## Track 2 (Camera Setup)
-- [2a. Mount Center Camera](2a.%20Mount%20Center%20Camera.md)
-- [[2b. Mount and Cable Alliance Cameras]]
-- [[2c. Cable Center Camera]] (Includes cable back to Streaming Unit)
+## Track 2 (Audio Setup)
+- [[2a. Connect Microphone Antenna]]
+- [[2b. Radio Frequency Coordination]]
+- [[2c. Sync Microphones and Receivers]]
+- [[2d. Setup Microphone Chargers]]
+- [[2e. Connect Speakers]]
+- [[2g. Sound Check and Gain Leveling]]
+## Track 3 (Camera Setup)
+- [3a. Mount Center Camera](3a.%20Mount%20Center%20Camera.md)
+- [[3b. Mount and Cable Alliance Cameras]]
+- [[3c. Cable Center Camera]] (Includes cable back to Streaming Unit)
  %%(New for 2025) Mount Flex Camera%%
 %%(New for 2025) Cable Flex Camera (Includes cable back to Streaming Unit)%%
 
-## Track 3 (Audio Setup)
-- [[3a. Connect Microphone Antenna]]
-- [[3b. Radio Frequency Coordination]]
-- [[3c. Sync Microphones and Receivers]]
-- [[3d. Setup Microphone Chargers]]
-- [[3e. Connect Speakers]]
-- [[3f. Sound Check and Gain Leveling]]
+
 ## Track 4 (Screen and Projector Setup)
 - [[4a. Unpack and Assemble Screen]]
 - [[4b. Unpack and Setup Projector]]
