@@ -63,7 +63,7 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 - [[FRC/FRC-AV/Track 4/4b. Unpack and Setup Projector]]
 ## Track 5 (Finishing Touches)
 - [[FRC/FRC-AV/Track 5/5a. Setup Audience Display]]
-- [[FRC/FRC-AV/Track 5/5b. Finish OBS Setup]] %%(see also [[OBS Operators' Guide]] (coming soon))%%
+- [[FRC/FRC-AV/Track 5/5b. Finish OBS Setup]]
 
 %%## Striking and Teardown
  - Locations for Teardown%%

@@ -22,10 +22,8 @@ This is a short, long, black wheeled case that contains the large projection scr
 Let's now discuss the organized chaos of A/V setup (not to be confused with that of the field setup, which is its own beast!).
 # Stages and Order of Setup
 The setup of the FIRST Chesapeake Audio/Visual equipment can be broken down into distinct tracks of tasks, each of which may be accomplished in parallel. However, within each distinct track certain tasks rely on others, so the order of tasks within them is important to follow. Also note the following dependencies on other tracks:
-- #### The FMS relies on the Streaming Unit being cabled up to the Internet and active. Expect intervention from the FTA if this is not very quickly setup.
+- #### The scoring system relies on the Streaming Unit being cabled up to the Internet and active. Expect intervention from the FTA if this is not very quickly setup.
 - Most tracks rely on Track 1 being finished. At a minimum the Streaming Unit case needs to find its "home" for the event, and the back panel needs to be removed so the I/O panel is accessible.
-- Track 2.2 relies on Track 2.1 being finished. You cannot run cable to a camera that isn't staged in position yet!  
-- Track 5 relies on field assembly being partially complete. At a minimum, the field border needs to be finished so the camera can be properly aimed.
 
 ## Track 0 (Gathering Materials)
 Each of the five pieces of Equipment Storage described above should be moved to near where they will live during the event after they are removed from the PODS. Each event has a designated location for the screen and for A/V equipment, please consult with the Equipment Manager to determine where the setup is to be located. In the Equipment Manager's absence, the Event Manager can also provide guidance.
@@ -39,23 +37,26 @@ Each of the five pieces of Equipment Storage described above should be moved to 
 
 ## Track 2 (Audio Setup)
 - [[FTC/FTC-AV/Track 2/2a. Connect Microphone Antenna|2a. Connect Microphone Antenna]]
-- [[FTC/FTC-AV/Track 2/2b. Radio Frequency Coordination]]
-- [[FTC/FTC-AV/Track 2/2c. Sync Microphones and Receivers]]
-- [[FTC/FTC-AV/Track 2/2d. Setup Microphone Chargers]]
-- [[FTC/FTC-AV/Track 2/2e. Connect Speakers]]
-- [[FTC/FTC-AV/Track 2/2f. Initialize Sound Mixer]]
-- [[FTC/FTC-AV/Track 2/2g. Connect Music Input]]
-- [[FTC/FTC-AV/Track 2/2h. Sound Check and Gain Leveling]]
+- [[FTC/FTC-AV/Track 2/2b. Radio Frequency Coordination|2b. Radio Frequency Coordination]]
+- [[FTC/FTC-AV/Track 2/2c. Sync Microphones and Receivers|2c. Sync Microphones and Receiver]]
+- [[FTC/FTC-AV/Track 2/2d. Setup Microphone Chargers|2d. Setup Microphone Chargers]]
+- [[FTC/FTC-AV/Track 2/2e. Connect Speakers|2e. Connect Speakers]]
+- [[FTC/FTC-AV/Track 2/2f. Initialize Sound Mixer|2f. Initialize Sound Mixer]]
+- [[FTC/FTC-AV/Track 2/2g. Connect Music Input|2g. Connect Music Input]]
+- [[FTC/FTC-AV/Track 2/2h. Sound Check and Gain Leveling|2h. Sound Check and Gain Leveling]]
 ## Track 3 (Camera Setup)
 - [[FTC/FTC-AV/Track 3/3a. Mount Center Camera|3a. Mount Center Camera]]
 - [[3b. Mount and Cable Field Cameras|3b. Mount and Cable Field Cameras]]
 - [[FTC/FTC-AV/Track 3/3c. Cable Center Camera|3c. Cable Center Camera]] (Includes cable back to Streaming Unit)
 ## Track 4 (Screen and Projector Setup)
-- [[FTC/FTC-AV/Track 4/4a. Unpack and Assemble Screen]]
-- [[FTC/FTC-AV/Track 4/4b. Unpack and Setup Projector]]
+- [[FTC/FTC-AV/Track 4/4a. Unpack and Assemble Screen|4a. Unpack and Assemble Screen]]
+- [[FTC/FTC-AV/Track 4/4b. Unpack and Setup Projector|4b. Unpack and Setup Projector]]
 ## Track 5 (Finishing Touches)
 - [[FTC/FTC-AV/Track 5/5a. Setup Audience Display|5a. Setup Audience Display]]
-- [[FTC/FTC-AV/Track 5/5b. Finish OBS Setup|5b. Finish OBS Setup]] %%(see also [[OBS Operators' Guide]] (coming soon))%%
+- [[FTC/FTC-AV/Track 5/5b. Finish OBS Setup|5b. Finish OBS Setup]] %%(see also [[FTC/FTC-AV/OBS Operators' Guide]] (coming soon))%%
 
+# Reference Materials
+These guides have been written to aid AV operations efforts during the event.
+- [[FTC/FTC-AV/Sound Board Operators' Guide|Sound Board Operators' Guide]]
 %%## Striking and Teardown
  - Locations for Teardown%%
